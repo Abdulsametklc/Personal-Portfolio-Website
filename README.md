@@ -1,12 +1,33 @@
-# React + Vite
+# Kişisel Portfolyo Sitesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, React teknolojisi kullanılarak geliştirilmiş kişisel bir portfolyo sitesidir. Amacı, tüm deneyim, çalışmalar, projeler ve iletişim bilgilerini tek bir sayfada kullanıcıya sunmaktır.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Teknolojiler ve Özellikler
 
-## Expanding the ESLint configuration
+- **React.js:** Projenin temel yapı taşı olarak kullanıldı. Bileşen bazlı yapı sayesinde sayfa yönetimi kolay ve dinamik.
+- **CSS Tasarımı:** Modern ve sade bir kullanıcı arayüzü için özel CSS kodları yazıldı.
+- **Veri Yönetimi:** Deneyim, projeler ve iletişim bilgileri gibi içerikler ayrı `.js` dosyalarından çekilerek yönetildi. Böylece içerik güncelleme ve yönetim pratik hale getirildi.
+- **Tek Sayfa Tasarım:** Kullanıcı dostu ve hızlı erişim için tüm bilgiler tek sayfada toplandı.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Proje İçeriği
+
+- **Deneyimler:** Eğitim, iş ve staj gibi geçmiş tecrübeler listeleniyor.
+- **Projeler:** Öne çıkan yazılım ve tasarım projeleri detaylarıyla gösteriliyor.
+- **İletişim:** E-posta, sosyal medya ve diğer iletişim kanalları yer alıyor.
+
+---
+
+## Kurulum ve Çalıştırma
+
+Projeyi kendi bilgisayarınızda çalıştırmak için:
+
+```bash
+git clone https://github.com/username/portfolio.git
+cd portfolio
+npm install
+npm start
+
