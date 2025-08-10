@@ -27,7 +27,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
 git clone https://github.com/Abdulsametklc/Personal-Portfolio-Website.git
-cd portfolio
+cd Personal-Portfolio-Website
 npm install
 npm start
-
