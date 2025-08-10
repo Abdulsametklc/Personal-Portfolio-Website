@@ -26,8 +26,7 @@ Bu proje, React teknolojisi kullanılarak geliştirilmiş kişisel bir portfolyo
 Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 ```bash
-git clone https://github.com/Abdulsametklc/Personal-Portfolio-Website
-.git
+git clone https://github.com/Abdulsametklc/Personal-Portfolio-Website.git
 cd portfolio
 npm install
 npm start
